@@ -26,50 +26,9 @@ Formado pela **Universidade Federal de Ouro Preto (UFOP)**, com interesse em arq
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-purple?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Security-black?style=for-the-badge)
 
 ---
 
-## 💡 Perfil Profissional
 
-Atuo com foco em desenvolvimento backend no ecossistema Java, buscando construir soluções limpas, robustas e escaláveis.
-
-Tenho interesse especial em:
-
-- APIs REST com Spring Boot
-- modelagem e persistência de dados
-- arquitetura de microsserviços
-- concorrência e performance no Java
-- qualidade de código e boas práticas de projeto
-
----
-
-## 🎓 Formação
-
-**Universidade Federal de Ouro Preto (UFOP)**  
-Graduação concluída, com base técnica voltada para evolução contínua na área de desenvolvimento de software.
-
----
-
-## 🚀 Foco Atual
-
-Atualmente, estou aprofundando conhecimentos em:
-
-- **Java 21**
-- **Virtual Threads**
-- **Spring Boot**
-- **Microsserviços**
-- **JVM e performance**
-- **Arquitetura backend**
-
----
-
-## 📌 Objetivo
-
-Busco consolidar minha atuação como desenvolvedor backend Java, participando da construção de sistemas confiáveis, performáticos e sustentáveis, com atenção à arquitetura, manutenção e evolução do software.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1-lucas-sena/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucastsena85@gmail.com)
